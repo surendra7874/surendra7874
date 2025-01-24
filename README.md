@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Venkata Surendra</h1>
 <h3 align="center">A passionate Embedded Software developer from India</h3>
 
-- 🔭 I’m currently working on **Analouge Measurement Module**
+- 🔭 I’m currently working on **RTU slave MODULES**
 
 - 🌱 I’m currently learning **freeRTOS, Linux Device Drivers,**
 
-- 👯 I’m looking to collaborate on **Autosar**
+- 👯 I’m looking to collaborate on **Protection Functions**
 
 - 💬 Ask me about **Embedded C, Microcontroller, CAN, SPI, I2C and UART.**
 
